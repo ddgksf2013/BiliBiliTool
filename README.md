@@ -237,13 +237,6 @@ c. 如果想自己解决，请fork仓库后，在**devlop分支**进行编码开
 
 （赞赏时记得留下【昵称】和【留言】~）
 
-微信扫码自动赞赏1元：
-
-![微信赞赏码](https://github.com/RayWangQvQ/BiliBiliTool.Docs/blob/main/imgs/donate-wechat.jpg)
-
-支付宝扫码自动赞赏1元：
-
-![支付宝赞赏码](https://github.com/RayWangQvQ/BiliBiliTool.Docs/blob/main/imgs/donate-ali.jpg)
 
 ## 7.感谢
 本程序的灵感来源于Github的开源项目：[JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)，该项目由Java编写，有使用Java而不是C#的朋友也可以去Star该项目，他的作者是个很棒的开源分享者，欢迎大家前往支持。
